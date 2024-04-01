@@ -1,0 +1,467 @@
+101,Last Breath,You're heavily wounded and on your last breath. You must use the Body Reconstruction Elixir I to reconstruct your body or you'll die.
+102,Body Reconstruction,Reconstructing body...
+103,Heavy Burden,Travel Speed remains at 300. You can't teleport.
+105,Internal Injury,Max Energy -30%
+106,Absentminded,Max Focus -50%
+107,Corpse Poison,DEF -30%
+108,Nether Poison,All Spiritual Roots -30%
+109,Disturbed Qi,ATK -10%. You can't achieve Breakthrough.
+110,Unstable Realm,All Martial Arts -10%. You can't achieve Breakthrough.
+111,Blocked Meridians,All Spiritual Roots -10%. You can't achieve Breakthrough.
+112,Distraught,All Martial Arts and Spiritual Roots -15%. You can't achieve Breakthrough.
+113,Hindrance,ATK -20%, All Martial Arts and Spiritual Roots -20%. You can't achieve Breakthrough.
+114,Grounded,You can't leave your sect.
+115,Hidden,You can't be targeted by others.
+116,固定单位,每个月结束固定单位到添加气运时的地点
+117,停止AI,停止AI运转
+118,Trapped,You're trapped inside a Monster Lair.
+120,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Qi Refining Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+121,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Qi Refining Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+122,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Foundation Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+123,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Foundation Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+124,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Qi Condensation Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+125,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Qi Condensation Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+126,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Golden Core Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+127,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Golden Core Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+128,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Origin Spirit Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+129,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Origin Spirit Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+130,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Nascent Soul Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+131,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Nascent Soul Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+132,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Soul Formation Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+133,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Soul Formation Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+134,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Enlightenment Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+135,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Enlightenment Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+136,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Reborn Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+137,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Reborn Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+138,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Transcendent Middle.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+139,Bottleneck,EXP limit reached for your current Realm. You must achieve Breakthrough to reach Transcendent Late.nSee details of Breakthrough on the Rewrite Destiny page (Hot Key: J).
+141,Life Soul Defect,When a Favored Artifact Spirit Compact is broken, part of the Life Soul is lost. Max Vitality and Energy are reduced by 20% and cannot bind Favored Artifact.
+142,Grounded,You failed a Sect Mission and is currently grounded by the elder.
+501,Cold and Hungry,Vitality -200 every month
+502,Parched,Stamina -50 every month
+503,Dizzy,Vitality -300 and Stamina -60 every month
+1011,Last Breath,You're heavily wounded and on your last breath. You must use the Body Reconstruction Elixir II to reconstruct your body or you'll die.
+1012,Last Breath,You're heavily wounded and on your last breath. You must use the Body Reconstruction Elixir III to reconstruct your body or you'll die.
+1013,Last Breath,You're heavily wounded and on your last breath. You must use the Body Reconstruction Elixir IV to reconstruct your body or you'll die.
+5001,Empowered,ATK +10%
+5002,Energized,Max Energy +10%
+5003,Fortified,DEF +10%
+5004,Vitalized,Max Vitality +10%
+5005,Sharpened Blade,Blade +10%
+5006,Windrider,Agility +10%
+5007,Shielded,Martial RES +10
+5008,Water Qi Orb,Fire Root -20, Water Root +20
+5009,The Best Defense,DEF -30, ATK +30
+5010,Sealed Spirit,All Spiritual Roots -10
+5011,Heavily Wounded,Max Vitality is temporarily reduced by 30%
+5012,Foxy Charm,Charisma +300
+5013,Foxy Allure,Charisma +200
+5014,Foxy Appeal,Charisma +100
+5015,Fox Chase,Someone is constantly following you.
+5016,Grudge of the Fox,All Fox Spirits give you a hateful stare.
+5017,Bandit Catcher ,Luck +10 for 12 months
+5018,Brutal Bandit,Luck -20 for 6 months
+5019,Sly Thief,Luck -10 for 12 months
+5020,Bully,Luck -10 for 6 months
+5021,Reckless,Luck -15, Mood -20 every month. Duration: 6 months
+5022,Strong Finish,Mood +20 every month. Duration: 6 months
+5023,Heartbroken,Mood -20 every month. Duration: 6 months
+5024,Devastated,Mood -50 every month. Duration: 6 months
+5025,An Eye for an Eye,Luck +10, Mood +20 every month. Duration: 6 months
+5026,Revenger,Mood +20 every month. Duration: 6 months
+5027,Bloody Payback,Luck -20, Mood +50 every month. Duration: 12 months
+5028,Merciless,Luck -10 for 12 months
+5029,Merciful,Luck +10 for 6 months
+5030,Forced Retreat,Luck -30 for 6 months
+5031,Endurable,Luck +20 for 6 months
+5032,Lingering Scent,Luck +20, Mood +10 every month. Duration: 12 months
+5033,Blackmail,Luck -10 for 6 months
+5034,Divine Blessing,Vitality, Energy, and Focus +10%, All Spiritual Roots +10. Duration: 12 months
+5035,Extreme Cruelty,ATK +10%, Max Vitality -10%. Duration: 12 months
+5036,Hyper Vitality,Max Vitality +10% for 12 months
+5037,Calm Energy,Max Energy +10% for 12 months
+5038,Azure Dragon's Blessing,ATK +10% for 12 months
+5039,White Tiger's Blessing,Crit + 20 for 12 months
+5040,Vermilion Bird's Blessing,All Spiritual Roots +10 for 12 months
+5041,Black Tortoise's Blessing,DEF +10% for 12 months
+5042,Sudden Fortune,Spirit Stones +5000, Luck +10. Duration: 12 months
+5043,Assorted,Obtain random Herbs. Luck +10 for 12 months
+5044,Motherlode,Obtain random Martial Arts, Elixirs, or Artifacts. Luck +10 for 12 months
+5045,Lightning Force,Lightning Root +10 for 12 months
+5046,Lightning Oppressor,Lightning Root -10 for 12 months
+5047,Vanguard,ATK +5%, All Spiritual Roots +5. Duration: 12 months
+5048,Sword Boost,Sword +5 for 12 months
+5049,Blade Boost,Blade +5 for 12 months
+5050,Spear Boost,Spear +5 for 12 months
+5051,Icy Water,Water Root +5 for 12 months
+5052,Ice and Snow,Water Root +10 for 12 months
+5053,Rich Earth,Earth Root +5 for 12 months
+5054,Dark Dust,Earth Root +10 for 12 months
+5055,Ancient Vine,Wood Root +5 for 12 months
+5056,World of Trees,Wood Root +10 for 12 months
+5057,Spark of Fire,Fire Root +5 for 12 months
+5058,Bursting Flames,Fire Root +10 for 12 months
+5059,Thunderstorm,Lightning Root +5 for 12 months
+5060,Raging Lightning,Lightning Root +10 for 12 months
+5061,Rising Wind,Wind Root +5 for 12 months
+5062,Wind of Sorrow,Wind Root +10 for 12 months
+5063,Body of Chaos,Your body contains the power of chaos, but your Lifespan is reduced by 3 years every month.
+5064,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 1 Condensed Qi Crystal, and your ATK and DEF are reduced by 10%.
+5065,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 2 Condensed Qi Crystal, and your ATK and DEF are reduced by 20%.
+5066,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 3 Condensed Qi Crystal, and your ATK and DEF are reduced by 30%.
+5067,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 4 Condensed Qi Crystal, and your ATK and DEF are reduced by 40%.
+5068,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 5 Condensed Qi Crystal, and your ATK and DEF are reduced by 50%.
+5069,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 6 Condensed Qi Crystal, and your ATK and DEF are reduced by 60%.
+5070,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 7 Condensed Qi Crystal, and your ATK and DEF are reduced by 70%.
+5071,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 8 Condensed Qi Crystal, and your ATK and DEF are reduced by 80%.
+5072,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 9 Condensed Qi Crystal, and your ATK and DEF are reduced by 90%.
+5073,Qi Loss,Condensed Qi Crystals are activated in this area. The carrier will lose Qi. You currently have 10 Condensed Qi Crystal, and your ATK and DEF are reduced by 100%.
+5074,Fire Root Forge,You push your Fire Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.
+5075,Water Root Forge,You push your Water Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.
+5076,Lightning Root Forge,You push your Lightning Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.
+5077,Wind Root Forge,You push your Wind Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.
+5078,Earth Root Forge,You push your Earth Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.
+5079,Wood Root Forge,You push your Wood Root out of you body and forge it into an orb. Your Vitality, Energy, and Focus are reduced by 15%.
+7001,Long Face,Mood -10 every month
+7002,Frustration,Crit -50%
+7003,Spooked,Crit RES -50%
+7004,Depression,Health -10 every month
+7005,Overwhelmed,ATK -10%
+7006,Exhausted,Stamina -10 every month
+7007,Distracted,DEF -10%
+7008,Paranoid,Others' Affinity toward you can't increase.
+7009,Anxiety,Max Mood -50%
+7010,Worried,You can't perform Cultivation.
+7011,Upset,You can't use Elixirs.
+7012,At a Loss,You have a chance of losing some items every month.
+7013,Unhappy,Luck -50%
+7014,Keep to Yourself,You can't talk to others.
+7015,Low Morale,You can't initiate a fight.
+7016,Panicked,You can't ride a mount.
+7017,Muddled,Insight -50%
+8001,Mighty Strength,ATK +6
+8002,Bloodboil,Max Vitality +100
+8003,World of Trees,Max Energy +100
+8004,Refreshment,Max Focus +100
+8005,Robust Body,DEF +6
+8006,Killing Intent,Crit +20
+8007,Body of Steel,Crit RES +20
+8008,Placid,200 Vitality is recovered every month
+8009,Lively,200 Energy is recovered every month
+8010,Tranquil,100 Focus is recovered every month
+8011,Enhanced Stamina,Max Stamina +10. 10 Stamina is recovered every month
+8012,Blissful,Max Mood +10. 5 Mood is recovered every month
+8013,Light as a Feather,Agility +15, Travel Speed +400
+8021,name_8021,ATK +24
+8022,name_8022,Max Vitality +500
+8023,name_8023,Max Energy +250
+8024,name_8024,Max Focus +250
+8025,name_8025,DEF +24
+8026,name_8026,Crit +65
+8027,name_8027,Crit RES +65
+8028,name_8028,1000 Vitality is recovered every month
+8029,name_8029,500 Energy is recovered every month
+8030,name_8030,250 Focus is recovered every month
+8031,name_8031,Max Stamina +20. 20 Stamina is recovered every month
+8032,name_8032,Max Mood +20. 10 Mood is recovered every month
+8033,name_8033,Agility +25, Travel Speed +700
+8041,name_8041,ATK +85
+8042,name_8042,Max Vitality +2000
+8043,name_8043,Max Energy +800
+8044,name_8044,Max Focus +800
+8045,name_8045,DEF +87
+8046,name_8046,Crit +200
+8047,name_8047,Crit RES +200
+8048,name_8048,4000 Vitality is recovered every month
+8049,name_8049,1600 Energy is recovered every month
+8050,name_8050,800 Focus is recovered every month
+8051,name_8051,Max Stamina +30. 30 Stamina is recovered every month
+8052,name_8052,Max Mood +30. 15 Mood is recovered every month
+8053,name_8053,Agility +35, Travel Speed +1000
+8061,name_8061,ATK +320
+8062,name_8062,Max Vitality +7000
+8063,name_8063,Max Energy +1200
+8064,name_8064,Max Focus +1200
+8065,name_8065,DEF +317
+8066,name_8066,Crit +700
+8067,name_8067,Crit RES +700
+8068,name_8068,14000 Vitality is recovered every month
+8069,name_8069,2400 Energy is recovered every month
+8070,name_8070,1200 Focus is recovered every month
+8071,name_8071,Max Stamina +40. 40 Stamina is recovered every month
+8072,name_8072,Max Mood +40. 20 Mood is recovered every month
+8073,name_8073,Agility +45, Travel Speed +1250
+8081,name_8081,ATK +1150
+8082,name_8082,Max Vitality +25000
+8083,name_8083,Max Energy +3000
+8084,name_8084,Max Focus +3000
+8085,name_8085,DEF +1146
+8086,name_8086,Crit +2200
+8087,name_8087,Crit RES +2200
+8088,name_8088,50000 Vitality is recovered every month
+8089,name_8089,6000 Energy is recovered every month
+8090,name_8090,3000 Focus is recovered every month
+8091,name_8091,Max Stamina +50. 50 Stamina is recovered every month
+8092,name_8092,Max Mood +50. 25 Mood is recovered every month
+8093,name_8093,Agility +55, Travel Speed +1500
+8101,Intimidated (ATK),Intimidated, you deal 10% less damage in the current battle.
+8102,Intimidated (DEF),Intimidated, you receive 10% more damage in the current battle.
+8103,Intimidated (Vitality),Intimidated, your Max Vitality is reduced by 10% in the current battle.
+8104,Intimidated (Energy),Intimidated, your Max Energy is reduced by 10% in the current battle.
+8105,Vitality Loss,Intimidated, you lose 2% of your current Vitality every 5s in the current battle.
+8106,Energy Loss,Intimidated, you lose 4% of your current Energy every 5s in the current battle.
+8107,Intimidated (Focus),Intimidated, your Elixirs' recovery effects are reduced by 20% in the current battle.
+8201,Encouraged (ATK),Encouraged, you deal 10% more damage in the current battle.
+8202,Encouraged (DEF),Encouraged, you receive 10% less damage in the current battle.
+8203,Encouraged (Vitality),Encouraged, your Max Vitality is increased by 10% in the current battle.
+8204,Encouraged (Energy),Encouraged, your Max Energy is increased by 10% in the current battle.
+8205,Vitality Replenishment,Encouraged, you recover 2% of your Max Vitality every 5s in the current battle.
+8206,Energy Replenishment,Encouraged, you recover 4% of your Max Energy every 5s in the current battle.
+8207,Encouraged (Focus),Encouraged, your Elixirs' recovery effects are increased by 20% in the current battle.
+8301,Damaged Foundation,You can't perform Cultivation. Your ATK, DEF, Vitality, Energy, and Focus are reduced by 10%.
+8501,Unobstructed,You can pass through some areas others can't.
+9001,Statue's Grace,Price -10% when you redeem items at the statue
+9002,Statue's Grace,Price -20% when you redeem items at the statue
+9003,Statue's Grace,Price -30% when you redeem items at the statue
+9004,Statue's Grace,Price -40% when you redeem items at the statue
+9005,Statue's Grace,Price -50% when you redeem items at the statue
+9006,Statue's Grace,Price -60% when you redeem items at the statue
+9011,Statue's Spirit,In each stage, the statue has a 15% chance to appear an additional time.
+9012,Statue's Spirit,In each stage, the statue has a 30% chance to appear an additional time.
+9013,Statue's Spirit,In each stage, the statue has a 45% chance to appear an additional time.
+9014,Statue's Spirit,In each stage, the statue has a 60% chance to appear an additional time.
+9015,Statue's Spirit,In each stage, the statue has a 75% chance to appear an additional time.
+9016,Statue's Spirit,In each stage, the statue has a 90% chance to appear an additional time.
+9021,Spiritual Fruit (Vitality),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 400 Vitality.
+9022,Spiritual Fruit (Vitality),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 800 Vitality.
+9023,Spiritual Fruit (Vitality),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 1200 Vitality.
+9024,Spiritual Fruit (Vitality),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 1600 Vitality.
+9025,Spiritual Fruit (Vitality),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 2000 Vitality.
+9026,Spiritual Fruit (Vitality),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 2400 Vitality.
+9031,Spiritual Fruit (Energy),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 200 Energy.
+9032,Spiritual Fruit (Energy),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 400 Energy.
+9033,Spiritual Fruit (Energy),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 600 Energy.
+9034,Spiritual Fruit (Energy),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 800 Energy.
+9035,Spiritual Fruit (Energy),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 1000 Energy.
+9036,Spiritual Fruit (Energy),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 1200 Energy.
+9041,Spiritual Fruit (Focus),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 100 Focus.
+9042,Spiritual Fruit (Focus),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 200 Focus.
+9043,Spiritual Fruit (Focus),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 300 Focus.
+9044,Spiritual Fruit (Focus),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 400 Focus.
+9045,Spiritual Fruit (Focus),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 500 Focus.
+9046,Spiritual Fruit (Focus),Each dead monster has 2% chance to drop a Spiritual Fruit that recovers 600 Focus.
+9051,Heavenly Blessing,Every time you receive a new blessing, you'll recover 250 Vitality, Energy, and Focus.
+9052,Heavenly Blessing,Every time you receive a new blessing, you'll recover 500 Vitality, Energy, and Focus.
+9053,Heavenly Blessing,Every time you receive a new blessing, you'll recover 750 Vitality, Energy, and Focus.
+9054,Heavenly Blessing,Every time you receive a new blessing, you'll recover 1000 Vitality, Energy, and Focus.
+9055,Heavenly Blessing,Every time you receive a new blessing, you'll recover 1250 Vitality, Energy, and Focus.
+9056,Heavenly Blessing,Every time you receive a new blessing, you'll recover 1500 Vitality, Energy, and Focus.
+9061,Strong Finish,Upon entering a new stage, your ATK will drop by 50. For every floor you clear, your ATK will increase by 10.
+9062,Strong Finish,Upon entering a new stage, your ATK will drop by 75. For every floor you clear, your ATK will increase by 15.
+9063,Strong Finish,Upon entering a new stage, your ATK will drop by 100. For every floor you clear, your ATK will increase by 20.
+9064,Strong Finish,Upon entering a new stage, your ATK will drop by 125. For every floor you clear, your ATK will increase by 25.
+9065,Strong Finish,Upon entering a new stage, your ATK will drop by 150. For every floor you clear, your ATK will increase by 30.
+9066,Strong Finish,Upon entering a new stage, your ATK will drop by 200. For every floor you clear, your ATK will increase by 40.
+9071,Treasure Hunter,Every time you clear a floor, you have a 5% chance to choose an additional reward.
+9072,Treasure Hunter,Every time you clear a floor, you have a 7% chance to choose an additional reward.
+9073,Treasure Hunter,Every time you clear a floor, you have a 9% chance to choose an additional reward.
+9074,Treasure Hunter,Every time you clear a floor, you have a 11% chance to choose an additional reward.
+9075,Treasure Hunter,Every time you clear a floor, you have a 13% chance to choose an additional reward.
+9076,Treasure Hunter,Every time you clear a floor, you have a 15% chance to choose an additional reward.
+9081,Swift Shield,Every time you use a Motion Skill, you'll receive a shield with 200 Vitality. The shield lasts 5s.
+9082,Swift Shield,Every time you use a Motion Skill, you'll receive a shield with 400 Vitality. The shield lasts 5s.
+9083,Swift Shield,Every time you use a Motion Skill, you'll receive a shield with 600 Vitality. The shield lasts 5s.
+9084,Swift Shield,Every time you use a Motion Skill, you'll receive a shield with 800 Vitality. The shield lasts 5s.
+9085,Swift Shield,Every time you use a Motion Skill, you'll receive a shield with 1000 Vitality. The shield lasts 5s.
+9086,Swift Shield,Every time you use a Motion Skill, you'll receive a shield with 1200 Vitality. The shield lasts 5s.
+9091,Aura Hunter,Each dead elite monster has a 5% chance to drop Righteous Auras or Demonic Auras.
+9092,Aura Hunter,Each dead elite monster has a 7% chance to drop Righteous Auras or Demonic Auras.
+9093,Aura Hunter,Each dead elite monster has a 9% chance to drop Righteous Auras or Demonic Auras.
+9094,Aura Hunter,Each dead elite monster has a 11% chance to drop Righteous Auras or Demonic Auras.
+9095,Aura Hunter,Each dead elite monster has a 13% chance to drop Righteous Auras or Demonic Auras.
+9096,Aura Hunter,Each dead elite monster has a 15% chance to drop Righteous Auras or Demonic Auras.
+9097,Haunted,You constantly feel like someone's whispering at you.
+9098,Resented,You're resented, and your ATK is reduced by 15%.
+9099,War Dance,ATK and DEF +20%
+9100,Moon Branch,Cultivation Speed +20%
+9101,Dire Ape's Blood,ATK and DEF +20%
+9102,Moxue's Gift,Luck +15%
+9103,Alert,Crit RES +20%
+9104,Evergreen's Curse,Luck -20%
+9105,Shop Owner's Apology,You get a 20% discount when buying items.
+9106,Unwelcome Customer,Everyone knows you were once a thief. It's hard for you to buy items, and you'll be charged 25% more.
+9107,Ferryman's Call,All Spiritual Roots +20, Spiritual RES -10
+9108,Ranyi's Breath,Mood +20 every month
+9109,Fox Spirit's Blessing,Luck +25
+9110,Berserk,Crit DMG +100
+9111,Fearless,ATK +10%
+9112,Terrified,ATK -10%
+9113,Lushu's Favor,Luck +20
+9114,Plague,10% of your current Vitality is reduced every month.
+9115,Cautious,Crit RES +10%
+9116,Restrained,Max Vitality -15%
+9117,River God's Blessing,Luck +10. 10% of Vitality and Health are recovered every month.
+9118,Virtuous,Luck +5, Crit RES +10%
+9119,Answered Prayer,Luck +5
+9120,Answered Prayer,Luck +10
+9121,Strange Feather,Spiritual RES +10%
+9122,Moon Mark,Cultivation Efficiency +10%
+9123,Xingxing's Spirit,Travel Speed +200, Agility +20
+9124,Xingxing's Force,Travel Speed +200
+9125,Great Fortune,Luck +20
+9126,Good Fortune,Luck +10
+9127,Bad Fortune,Luck -10
+9128,Saving the Bird,tips_9128
+9129,Romance Under the Moon,tips_9129
+9130,Rock Cave,tips_9130
+9131,Elixir Gift,tips_9131
+9132,Holy Spring,tips_9132
+9133,Free Drink,tips_9133
+9134,Ambushed,tips_9134
+9135,Unknown Altar,tips_9135
+9136,Disagreement,tips_9136
+9137,Lost Spirit Stone,tips_9137
+9138,Unfaithful Partner,tips_9138
+9139,Sacred Wine,ATK +10%, Luck +10
+9140,Sacred Wine,DEF +10%, Luck +10
+9141,Sacred Wine,Crit +10%, Luck +10
+9142,Sacred Wine,Crit DMG +100, Luck +10
+9143,Small Punishment,ATK -10%, Luck -10
+9144,Small Punishment,DEF -10%, Luck -10
+9145,Small Punishment,Crit -10%, Luck -10
+9146,Small Punishment,Crit DMG -100, Luck -10
+9147,Possessed,Max Focus -100
+9148,Minor Injury,Max Vitality and Max Energy -10%
+9149,Destroyed Holy Spring,tips_9149
+9150,Clarity of Mind,Insight +20
+9151,Sluggish Thinking,Insight -10
+9152,Informed,Insight +20, Cultivation Efficiency +10%
+9153,Tipsy,ATK +5%
+9154,Intoxicated,Vitality +5%, Crit +10%
+9155,Lucky Clover,Luck +20
+9156,Unlucky Clover,Luck -10
+9157,Best Intentions,Luck -1
+9158,Resentment,Max Focus -500
+9159,Full of Blood,Max Vitality +5%
+9160,Devil Within,Max Vitality -5%
+9162,Divine Order,The Law of Heaven is balance, harmony between Yin and Yang, the eternal dance of entropy and order. The forces of evil and chaos are powerful indeed. The Heavenly Path can empower those who would stand against it and help them attain the Realm of Perfect Duality. The Law massively strengthens creatures summoned by the Cultivator, enabling them to contend with powerful adversaries.n<g>Significantly reduces damage to summoned units (including Artifacts) from Mythical Beasts.</g>
+9163,Seek knowledge,Insight +10
+9164,Know not,Mood +10 every month
+9165,Seek the Tao,ATK +5%, Insight +10
+9166,Seek not,DEF +5%, Luck +10
+9167,Life is impermanent,Insight +5, Travel Speed +100
+9168,Cowardice,ATK -5%, Mood -10 every month, Agility +20
+9169,Yuanzhi's Mentor,ATK +5%, DEF +5%
+9170,Pursue Not the Truth,ATK +10%, Insight +20
+9171,Succumb not to Sadness,DEF +10%, Insight +20, Mood +10 every month
+9172,Myth of Chess Game,Insight +40, Cultivation Speed +50%
+9173,Dark Ophryon,Luck -20, Charisma -500
+9175,name_9175,tips_9175
+9176,name_9176,tips_9176
+9177,name_9177,tips_9177
+9178,name_9178,tips_9178
+9179,name_9179,tips_9179
+9180,name_9180,tips_9180
+9181,name_9181,tips_9181
+9182,name_9182,tips_9182
+9183,Counter Report,The grievances of the dead gather at the end of life, more than a year but less than a month. The dead must reunite with the flesh, and they seek you for revenge...
+9186,Heart of Mercy,Luck +20
+20001,Decisive,Crit DMG doubles, ATK +10%
+20002,Star-crossed,Luck -10
+20003,Love-tied,The same token of Cowherd and Madam Weaver, symbolizing the deep affection between you and another person. When he or she encounters deadly threats from other Cultivators, this knot will create a wonderful reaction across space, which may lead you to him/her.
+20004,Love-tied,The same token of Cowherd and Madam Weaver, symbolizing the deep affection between you and another person. When he or she encounters deadly threats from other Cultivators, this knot will create a wonderful reaction across space, which may lead you to him/her.
+20005,Feather of Golden Crow,Carrying the Feather of Golden Crow, you will be the envy of many birds wherever you go.
+76211,Protection of Yang,DEF +10. It protects you from the cold on Panlong Mountain.
+810103,Divine,Charisma+&810103_mlzj&
+6104001,Auspicious Ox,Luck +20
+6114191,Soul Summoning Banner ,When you're dying, you'll be invincible for 5s. This Destiny can only be triggered once per battle and will disappear once triggered 3 times in total. (Triggered: {luckUseCount}/3)
+6114221,Soul Lamp,When you're dying, you'll instantly recover your Vitality, Energy, and Focus to full. This Destiny will disappear once triggered.
+6120001,Ghost Summoning Banner,When your Vitality drops below 20%, you'll summon 4 ghosts, one of which will heal you for 5% of your Max Vitality every 5s. This Destiny can only be triggered once per battle and will disappear once triggered 3 times in total. (Triggered: {luckUseCount}/3)
+6120002,Heavenly Sword Stone,Shortly after casting an Ultimate Skill, you'll summon a heavenly sword to deal high damage to all enemies. This Destiny can only be triggered once per battle and will disappear once triggered 9 times in total. (Triggered: {luckUseCount}/9)
+6120003,Broken Ghost Summoning Banner,A broken Ghost Summoning Banner with some of its power left. When your Vitality drops below 20%, you'll summon 2 ghosts. This Destiny can only be triggered once per battle and will disappear once triggered 2 times in total. (Triggered: {luckUseCount}/2)
+6120004,Broken Heavenly Sword Stone,A broken Heavenly Sword Stone with some of its power left. Shortly after casting an Ultimate Skill, you'll summon a heavenly sword to deal damage to all enemies. This Destiny can only be triggered once per battle and will disappear once triggered 3 times in total. (Triggered: {luckUseCount}/3)
+6120411,Ghost Summoning Banner,When your Vitality drops below 20%, you'll summon 3 skeletons, one of which will heal you for 5% of your Max Vitality every 5s. This Destiny can only be triggered once per battle and will disappear once triggered 3 times in total. (Triggered: {luckUseCount}/3)
+6121371,Spirit Sealing Curse,9s after encountering a Mythical Beast or another powerful enemy, you'll deal damage to all enemies. For the next 5s, you'll silence them and deal a small amount of damage. This Destiny can only be triggered once per battle and will disappear once triggered 9 times in total. (Triggered: {luckUseCount}/9)
+6331011,Monster Lure,In {#areaName2} and {#areaName3}, you have a 50% greater chance to be attacked by monsters.
+6331012,Monster Lure,In {#areaName4} and {#areaName5}, you have a 50% greater chance to be attacked by monsters.
+6331013,Monster Lure,In {#areaName6} and {#areaName7}, you have a 50% greater chance to be attacked by monsters.
+6331014,Monster Lure,In {#areaName8} and {#areaName9}, you have a 50% greater chance to be attacked by monsters.
+6331015,Monster Lure,In {#areaName10}, you have a 50% greater chance to be attacked by monsters.
+6331021,Monster Repellent,In {#areaName2} and {#areaName3}, you have a 75% less chance to be attacked by monsters. If you are in an area that could be subject to your coercion (your Realm is higher than the required Realm of the area), you will have a 100% less chance to be attacked by monsters.
+6331022,Monster Repellent,In {#areaName4} and {#areaName5}, you have a 75% less chance to be attacked by monsters. If you are in an area that could be subject to your coercion (your Realm is higher than the required Realm of the area), you will have a 100% less chance to be attacked by monsters.
+6331023,Monster Repellent,In {#areaName6} and {#areaName7}, you have a 75% less chance to be attacked by monsters. If you are in an area that could be subject to your coercion (your Realm is higher than the required Realm of the area), you will have a 100% less chance to be attacked by monsters.
+6331024,Monster Repellent,In {#areaName8} and {#areaName9}, you have a 75% less chance to be attacked by monsters. If you are in an area that could be subject to your coercion (your Realm is higher than the required Realm of the area), you will have a 100% less chance to be attacked by monsters.
+6331025,Monster Repellent,In {#areaName10}, you have a 100% less chance to be attacked by monsters.
+7000531,Mushroom Power I,Charisma &7000531_mlxj&. &7000531_hftl&% Vitality is recovered every month for 6 months
+8730221,Refreshing Snack,Max Stamina +10, Max Health +10, Travel Speed +50
+8730222,Ingested Poison,Max Stamina -10, Max Health -10, Travel Speed -50
+8800211,Backache,Cannot Cultivate or Dual Cultivate
+8800311,Art of Defense,Fist +100, Palm +100, Finger +100,掌法资质+100,指法资质+100
+8804211,Suspicious Mind,Luck +40, Insight -20,悟性-20
+8804311,Dream of Lightning,Insight +30, Max Vitality -10%, Travel Speed -100
+8805211,Toxin,Max Energy -10%, Spiritual RES +10
+8805212,name_8805212,tips_8805212
+8805213,Downpour Pool,You gain benefits from your Junior's Breakthrough special effect, and form Destiny that increases your energy. Your Vitality, Energy, and Max Focus increase by 100 points.
+8805214,Junior's Care,Get 20% off purchases in this Sect.
+8805215,Freeing Medicine Effects,It's unexpected, but the Senior's secret medicine can strengthen the body. The Breath circulates well in your body. Max Vitality +100.
+8805216,Nether Mirror,Inversion of the Spirit Platform, overturn troubles, the mirror peeks into the heart, rests doubts and clarifies worries. Enter the Realm of self-view, look at all inside. Insight +25.
+8805217,Uplifting Mood,You get the respect of disciples and your spirits are boosted. You move your arms and legs with confidence. Max Mood +50, +5 Mood recovery every month.
+8805218,Pleasant Little Drink,Increases Max Vitality by 5%, Max Focus by 5%
+8805219,Drink With Pleasure,Increases Max Vitality by 10%, Max Focus by 10%
+8805220,Bottomless Drunk,Increases Max Vitality by 15%, Max Focus by 15%
+8805221,Guardian Energy,Max Stamina +30, Max Health +30, Travel Speed +100
+8805222,Guardian Fortune,Luck +60, Insight +30,悟性+30
+8805300,name_8805300,Increases Max Vitality by 10%, Max Focus by 10%
+8805301,name_8805301,Increases Max Vitality by 15%, Max Focus by 15%
+9000001,General Taoist Mind Effects 2,Damage Taken -10%
+9000002,General Taoist Mind Effects 1,Damage Dealt +5%
+9000003,General Taoist Mind Effects -1,Damage Dealt -10%
+9000004,General Taoist Mind Effects -2,Damage Taken +20%
+9000005,Taoist Mind - Disappeared,Cannot Breakthrough
+9000101,Nameless,Damage dealt by you and all summoned units +10%
+9000102,Restlessness,Agility +10%
+9000103,Will,Skill Cooldown -10%
+9000104,Nature,Martial/Spiritual Skill Range +20%
+9000105,Obeying Heaven,Agility +10%
+9000106,Goodness,Focus cost when using Elixir and Artifact -20%
+9000107,Unobstructing,Damage from Cultivators -15%
+9000108,Brightness,Martial/Spiritual Skill Range +20%
+9000109,Kindling,Martial/Spiritual Skill Range +20%
+9000110,Mindfulness,Skill Cooldown -10%
+9000111,Blamelessness,Damage from Cultivators -15%
+9000112,Seclusion,Focus cost when using Elixir and Artifact -20%
+9000113,Temperance,Focus cost when using Elixir and Artifact -20%
+9000114,Inconclusiveness,Skill Cooldown -10%
+9000115,Permanence,Agility +10%
+9000116,Fortune,Luck +40
+9000117,Dawning,Luck +40
+9001001,Heart Like Ash,Damage dealt -50%, damage taken +100%
+9001002,Discouraged,Max Stamina -50%, chance of not being able to take any action
+9001101,Low Will,Damage Dealt -10%
+9001102,Weighed by Anxiety,Damage Taken +20%
+9001201,Taoist Mind - Birth,The Taoist Mind is in the initial state of being born, and it can already obtain Rewrite Destiny.
+9001202,Taoist Mind - Essence,The Taoist Mind is in a state of Essence development, and gained the Special Effects of the Taoist Mind.
+9001203,Taoist Mind - Perfection,The Taoist Mind is in a state of Perfection, and has acquired the final powerful special effect.
+9001204,Taoist Mind - Shake,The Taoist Mind is in a state of Shake, and if it continues to be hit, it will collapse and produce certain negative effects.
+9001205,Taoist Mind - Decay,The Taoist Mind is in a state of decay, and if it continues to suffer further blows, it will risk breaking and collapsing, generating serious negative effects
+9001206,Taoist Mind - Disappeared,The Taoist Mind has disappeared, and only a trace of its existence remains, resulting in a serious negative effect
+9002001,Shun the World,Humiliated. Motivation to live has taken a blow.
+9002002,Dispirited,Humiliated. Loathe trials and tribulations.
+9002003,Setback in Belief,Humiliated. Faith in cultivation is shaken.
+9100001,Blade Freeze,Your Blade damage will be neutralized by the No.1 Blade Cultivator.
+9100002,Spear Freeze,Your Spear damage will be neutralized by the No.1 Spear Cultivator.
+9100003,Sword Freeze,Your Sword damage will be neutralized by the No.1 Sword Cultivator.
+9100004,Fist Freeze,Your Fist damage will be neutralized by the No.1 Fist Cultivator.
+9100005,Palm Freeze,Your Palm damage will be neutralized by the No.1 Palm Cultivator.
+9100006,Finger Freeze,Your Finger damage will be neutralized by the No.1 Finger Cultivator.
+9100007,Fire Freeze,Your Fire damage will be neutralized by the No.1 Fire Cultivator.
+9100008,Water Freeze,Your Water damage will be neutralized by the No.1 Water Cultivator.
+9100009,Lightning Freeze,Your Lightning damage will be neutralized by the No.1 Lightning Cultivator.
+9100010,Wind Freeze,Your Wind damage will be neutralized by the No.1 Wind Cultivator.
+9100011,Earth Freeze,Your Earth damage will be neutralized by the No.1 Earth Cultivator.
+9100012,Wood Freeze,Your Wood damage will be neutralized by the No.1 Wood Cultivator.
+63310411,Contract Aura,Causes your aura to contract, reducing the frequency of other cultivators interacting with you. Effective when in <g>{#areaName1}, {#areaName2}, {#areaName3}</g>.
+63310421,Contract Aura,Causes your aura to contract, reducing the frequency of other cultivators interacting with you. Effective when in <g>{#areaName4}, {#areaName5}</g> and preceding areas.
+63310431,Contract Aura,Causes your aura to contract, reducing the frequency of other cultivators interacting with you. Effective when in <g>{#areaName6}, {#areaName7}</g> and preceding areas.
+63310441,Contract Aura,Causes your aura to contract, reducing the frequency of other cultivators interacting with you. Effective when in <g>{#areaName8}, {#areaName9}</g> and preceding areas.
+63310451,Contract Aura,Causes your aura to contract, reducing the frequency of other cultivators interacting with you. Effective when in <g>{#areaName10}</g> and preceding areas.

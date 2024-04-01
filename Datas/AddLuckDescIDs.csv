@@ -1,0 +1,196 @@
+700001,Each of your attacks has a &700001_bxgl&% chance to turn the target into a harmless chicken for &700001_cxsj&s. (Can be upgraded to Witchcraft II; ineffective on Mythical Beasts and other Cultivators)
+700002,Each of your attacks has a &700002_bxgl&% chance to turn the target into an angry chicken for &700002_cxsj&s. Angry chickens attack nearby allies and enemies randomly. (Select to replace Witchcraft I; can be upgraded to Witchcraft III; ineffective on Mythical Beasts and other Cultivators)
+700003,Each of your attacks has a &700003_bxgl&% chance to turn the target and all other enemies around the target into angry chickens for &700003_cxsj&s. Angry chickens attack nearby allies and enemies randomly. (Select to replace Witchcraft II; ineffective on Mythical Beasts and other Cultivators)
+700004,Your Agility during battle is increased by &700004_tsys&%, but you'll receive &700004_bmsh&% more damage from behind. (Can be upgraded to Burning Butt II)
+700005,Your Agility during battle is increased by &700005_tsys&%, but you'll receive &700005_bmsh&% more damage from behind. &700005_phgl&% chance to release a vengeful (smelly) flame at your attacker. (Select to replace Burning Butt I; can be upgraded to Burning Butt III)
+700006,Your Agility during battle is increased by &700006_tsys&%, and you'll receive &700006_bmsh&% damage from behind. &700006_phgl&% chance to release a more destructive flame at your attacker. (Select to replace Burning Butt II)
+700007,You received a Following Bug. (Can be upgraded to Following Bug II)
+700008,Your Following Bug has grown bigger. (Select to replace Following Bug I; can be upgraded to Following Bug III)
+700009,Your Following Bug has grown even bigger. (Select to replace Following Bug II)
+700010,Your Energy forms into a shield that blocks enemies' projectiles. Once an enemy uses skills, your shield will spray flames at the enemy, dealing &700010_sxwl& damage. The shield can spray flames once every &700010_sxcd&s. (Can be upgraded to Mysterious Shield II)
+700011,After every &700011_ddcs& blocks, your shield releases a shockwave that deals &700011_shwl& $s_tu$ damage to enemies nearby, their Agility &700011_jdys&% for &700011_jssj&s. Every time your shield sprays flames, it will choose &700011_sxsl& more random targets to inflict flames as well. (Select to replace Mysterious Shield I; can be upgraded to Mysterious Shield III)
+700012,The shockwaves your shield releases now have increased range and can knock enemies back, and the inflicted enemies' damage &700012_jdsh&% for &700012_jdsj&s. Every time your shield sprays flames, it will choose &700012_sxsl|-700011_sxsl|f2& more random targets to inflict flames as well. (Select to replace Mysterious Shield II)
+700013,Your Qi forms into a flying sword, which automatically attacks your target, dealing &700013_fjwl& $s_jian$ damage. (Can be upgraded to Jo's Flying Sword II)
+700014,Your flying sword randomly inflicts one of the following effects upon dealing damage: Poison, Stun, Slow, Burn, Freeze, Paralyze, Leech, Knockback, Energy Loss, Entangle, or Silence. (Select to replace Jo's Flying Sword I; can be upgraded to Jo's Flying Sword III)
+700015,After every &700015_fjcs& attacks, your flying sword transforms into a sword barrage, dealing damage to surrounding enemies and inflicting them with random effects. (Select to replace Jo's Flying Sword II)
+700016,Each of your attacks has a &700016_fsgl&% chance to shoot a fire ball at a random enemy, dealing &700016_hqwl& $s_huo$ damage.
+700017,Each of your attacks has a &700017_fsgl&% chance to shoot a waterspout that lasts &700017_szsj&s at a random enemy, dealing &700017_szwl&/ $s_shui$ damage.
+700018,When you steal items from Cultivators of the same or a lower Realm, you're guaranteed to succeed, but the victims will also notice that.
+700019,It's easier for other Cultivators to like you.
+700020,Your Escape is guaranteed to be successful.
+700021,After a successful Escape, your opponent will like you better.
+700022,Every enemy you kill has a &700022_zhgl&% chance to transform into your $s_wangling1$ (up to &700022_zhsx&). (Can be upgraded to Commander of the Dead II)
+700023,Every enemy you kill has a &700023_zhgl&% chance to transform into your $s_wangling1$ or $s_wangling2$ (up to &700023_zhsx&). (Select to replace Commander of the Dead I; can be upgraded to Commander of the Dead III)
+700024,Every enemy you kill has a &700024_zhgl&% chance to transform into your $s_wangling1$, $s_wangling2$, or $s_wangling3$ (up to &700024_zhsx&). (Select to replace Commander of the Dead II)
+700025,When you use your Ultimate Skill for the first time in a battle, you'll summon a $s_huangjilishi$ to fight for you.
+700026,After entering battle, you'll only keep 10 Vitality. The remaining Vitality will be converted into a shield (at least &700026_zxhd&% Vitality). After the battle ends, the unused shield Vitality will be converted back into your Vitality.
+700027,When you're dying, you'll transform into $s_huayao$ x&700027_hysl&. When the battle ends, as long as there's at least one $s_huayao$ alive, you'll revive. Can be triggered only once every &700027_lqsj&s.
+700028,When you deal damage to the enemies within &700028_xxjl&, you'll convert &700028_xxbl&% of damage done into your Vitality. (Can be upgraded to Blood Power II)
+700029,When your Vitality drops below &700029_xllj&%, you'll turn into a mad fighter (damage done &700029_jdsh&%, damage taken &700029_tssh&%). You'll lose control of your character, but the mad fighter attacks enemies automatically.
+700030,Your opponents' Affinity toward you will increase more if you defeat them in spars.
+700031,Other Cultivators may hate you after you interact with them; you have a lower chance of encountering monsters.
+700032,You'll earn &700032_tgjy&% more EXP after training together with others, and they'll gift you an item.
+700033,For every &700033_ljsh&% damage you receive in a battle, you'll increase your damage during the same battle by &700033_tssh&% (up to &700033_tssh|x100|f0&%).
+700034,You can cast Fist/Palm/Finger Ultimate Skills even when you don't meet their requirements. (For Ultimate Skills that detonate special units, only the cast requirements are removed, but no special units will be automatically generated.)
+700035,You can cast Blade/Sword/Spear Ultimate Skills even when you don't meet their requirements. (For Ultimate Skills that detonate special units, only the cast requirements are removed, but no special units will be automatically generated.)
+700036,You can cast Wind/Lightning Ultimate Skills even when you don't meet their requirements. (For Ultimate Skills that detonate special units, only the cast requirements are removed, but no special units will be automatically generated.)
+700037,You can cast Earth/Fire Ultimate Skills even when you don't meet their requirements. (For Ultimate Skills that detonate special units, only the cast requirements are removed, but no special units will be automatically generated.)
+700038,You can cast Water/Wood Ultimate Skills even when you don't meet their requirements. (For Ultimate Skills that detonate special units, only the cast requirements are removed, but no special units will be automatically generated.)
+700039,After dealing damage &700039_xqcs& times in a battle, your subsequent Ultimate Skill will summon &700039_jjsl& Sword Shadows that automatically attack enemies. The Sword Shadows last &700039_jjsj&s. (Cannot trigger more than once per battle; can be upgraded to Sword Shadows II)
+700040,After taking damage &700040_xqcs& times in a battle, your subsequent Ultimate Skill will generate a shield: your damage taken &700040_jdsh&% for &700040_cxsj&s. (Cannot trigger more than once per battle; can be upgraded to True Shield Stance)
+700041,After killing &700041_xqsl& enemies in a battle, your subsequent Ultimate Skill will generate Starlight, blinding the enemies within &700041_shfw& and dealing $s_lei$ damage. The Starlight lasts &700041_cxsj&s. (Cannot trigger more than once per battle; can be upgraded to Starlight II)
+700042,You deal &700042_tssh&% more damage to Cultivators with a Partner or Husband/Wife.
+700043,You receive free Spiritual Fruit every year.
+700044,Your DEF increases by &700044_tsfy& every year.
+700045,You EXP increases every time you spend Spirit Stones.
+700046,Every time you use an Elixir in battle, you have a &700046_dlgl&% chance to defecate it within &700046_zdys&s. Then you can pick it up to add it to your current Elixir Slot.
+700047,When fighting or sparring with other Cultivators, you have a &700047_xxgl&% chance to learn a skill from them. (Cannot occur more than once every &700047_nzcd& months)
+700048,When talking to or debating with other Cultivators, you'll foresee their desired response.
+700049,You'll recover some of your Vitality, Energy, and Focus every time you perform Cultivation on the world map.
+700050,Every time you cast a Special Skill or Ultimate Skill (excluding continuous skills, mobility skills, and transformation skills), you have a &700050_sfgl&% chance to cast it an additional time, dealing &700050_shbs&% damage (Energy will be consumed). (Can be upgraded to Spirit Fusion II)
+700051,Every time you land a critical strike in battle, you have a chance to generate a butterfly spirit that flies around and lasts 10s. When the butterfly disappears, it'll heal you for 5% of your Vitality. You'll turn into a cocoon when you die. Each butterfly spirit will provide 5% of your Max Vitality and DEF to the cocoon. You'll then revive in 5s with the recovered Vitality and DEF. (Cannot occur more than once per battle)
+700052,A mushroom grows on your head, and you randomly receive one of two effects: 1. Charisma -500, Damage Reduction +5% or 2. Charisma -500, Max Energy +10%
+700053,When you're dying, you'll transform into a Mushroom Man, and &700053_hftl&% Vitality will be recovered. Duration: &700053_cxsj&s.
+700054,Every &700054_zxjg&s-&700054_zdjg&s, an edible mushroom will spawn nearby. When you're dying, you'll transform into a Mushroom Man, and &700054_hftl&% Vitality will be recovered. Duration: &700054_cxsj&s.
+700055,When you deal damage to the enemies within &700055_xxjl&, you'll convert &700055_xxbl&% of damage done into your Vitality. (Select to replace Blood Power I; can be upgraded to Blood Power II)
+700056,When you deal damage to the enemies within &700056_xxjl&, you'll convert &700056_xxbl&% of damage done into your Vitality. (Select to replace Blood Power II)
+700057,After dealing damage &700057_xqcs& times in a battle, your subsequent Ultimate Skill will summon &700057_jjsl& Sword Shadows that automatically attack enemies. The Sword Shadows last &700057_jjsj&s. (Select to replace Sword Shadows I; cannot trigger more than once per battle)
+700058,After taking damage &700058_xqcs& times in a battle, your subsequent Ultimate Skill will generate a shield: your damage taken &700058_jdsh&% for &700058_cxsj&s. (Select to replace Shield Stance; cannot trigger more than once per battle)
+700059,After killing &700059_xqsl& enemies in a battle, your subsequent Ultimate Skill will generate Starlight, blinding the enemies within &700059_shfw& and dealing $s_lei$ damage. The Starlight lasts &700059_cxsj&s. (Select to replace Starlight I; cannot trigger more than once per battle)
+700060,Every time you cast a Special Skill or Ultimate Skill (excluding continuous skills, mobility skills, and transformation skills), you have a &700060_sfgl&% chance to cast it two additional times, dealing &700060_shbs&% damage (Energy will be consumed). (Select to replace Spirit Fusion I; can be upgraded to Spirit Fusion III)
+700061,Every time you cast a Special Skill or Ultimate Skill (excluding continuous skills, mobility skills, and transformation skills), you have a &700061_sfgl&% chance to cast it three additional times, dealing &700061_shbs&% damage (Energy will be consumed). (Select to replace Spirit Fusion II)
+700062,Time needed for learning Manuals &700062_jsts&d
+700063,Spirit Stones needed for learning Manuals &700063_jsls&%
+700064,Mood dropped after learning Manuals &700064_jsxq&%
+700065,Earn &700065_tsjy&% more EXP when studying Manuals.
+700066,Receive &700066_tsdd& Skill Points.
+700067,Receive &700067_tsdd& Skill Points.
+700068,Receive &700068_tsdd& Skill Points.
+700069,Receive &700069_tsdd& Skill Points.
+700070,Receive &700070_tsdd& Skill Points.
+700071,Receive &700071_tsdd& Skill Points.
+700072,Receive &700072_tsdd& Skill Points.
+700073,Receive &700073_tsdd& Skill Points.
+700074,Receive &700074_tsdd& Skill Points.
+700075,Max Mood +&700075_tsxq&
+700076,Max Health +&700076_tsjk&
+700077,Max Stamina +&700077_tsjl&
+700078,Insight +&700078_tswx&
+700079,Luck +&700079_tsxy&
+700080,When you're dying, you'll receive a shield with &700080_tshd&% Vitality. (Cannot trigger more than once per battle; can be upgraded to Shield Spirit II)
+700081,When you're dying, you'll receive a shield with &700081_tshd&% Vitality. For the next &700081_fssj&s, the shield will deal &700081_fsbl&% damage to enemies. (Select to replace Shield Spirit I; can be upgraded to Shield Spirit III; cannot trigger more than once per battle)
+700082,When you're dying, you'll receive a shield with &700082_tshd&% Vitality. For the next &700082_fssj&s, the shield will deal &700082_fsbl&% damage to enemies. When the shield's Vitality drops to 0, it'll explode, dealing &700082_bzwl& $s_quan$ damage to the enemies within &700082_bzfw&. (Select to replace Shield Spirit II; cannot trigger more than once per battle)
+700083,When you're dying, you'll instantly recover &700083_hfxl&% Vitality, and your Agility will increase by &700083_tsys&% for &700083_cxsj&s. (Cannot trigger more than once per battle; can be upgraded to Hidden Potential II)
+700084,When you're dying, you'll instantly recover &700084_hfxl&% Vitality, and your Agility and damage will increase by &700084_tsys&% and &700084_tssh&% for &700084_cxsj&s. (Select to replace Hidden Potential I; can be upgraded to Hidden Potential III; cannot trigger more than once per battle)
+700085,When you're dying, you'll instantly recover &700085_hfxl&% Vitality, and your Agility and damage will increase by &700085_tsys&% and &700085_tssh&% for &700085_cxsj&s. In addition, all your skills' cooldown &700085_jdcd&%. (Select to replace Hidden Potential II; cannot trigger more than once per battle)
+700086,When you're dying, you'll instantly burrow into the ground, recovering &700086_hfxl&% Vitality every second for &700086_cxsj&s. (Cannot trigger more than once per battle; can be upgraded to Burrow II)
+700087,When you're dying, you'll instantly burrow into the ground, recovering &700087_hfxl&% Vitality every second for &700087_cxsj&s. Meanwhile, a phantom will spawn, dealing &700087_hysh& damage. The phantom exists for &700087_hysj&s. (Select to replace Burrow I; can be upgraded to Burrow III; cannot trigger more than once per battle)
+700088,When you're dying, you'll instantly burrow into the ground, recovering &700088_hfxl&% Vitality every second for &700088_cxsj&s. Meanwhile, a phantom will spawn, dealing &700088_hysh& damage. The phantom exists for &700088_hysj&s. If the phantom dies, it'll explode, dealing &700088_bzwl& $s_shui$ damage to the enemies within &700088_bzfw&. (Select to replace Burrow II; cannot trigger more than once per battle)
+700089,When your Energy drops below &700089_ljll&% in battle, &700089_hfll&% Energy will be instantly recovered. (Cannot trigger more than once per battle; can be upgraded to Rain of Energy II)
+700090,When your Energy drops below &700090_ljll&% in battle, &700090_hfll&% Energy will be instantly recovered, and the cooldown of all your skills will be cleared. (Select to replace Rain of Energy I; can be upgraded to Rain of Energy III; cannot trigger more than once per battle)
+700091,When your Energy drops below &700091_ljll&% in battle, &700091_hfll&% Energy will be instantly recovered, and the cooldown of all your skills will be cleared. For the next &700091_cxsj&s, the cooldown of all your skills &700091_jscd&%. (Select to replace Rain of Energy II; cannot trigger more than once per battle)
+700092,When you don't have enough Energy in battle, you can consume Vitality (&700092_xhtl&x the Energy cost) to cast skills. (Can be upgraded to Blood Energy II)
+700093,When you don't have enough Energy in battle, you can consume Vitality (&700093_xhtl&x the Energy cost) to cast skills. Skills cast using Vitality deal &700093_tssh&% more damage. (Select to replace Blood Energy I; can be upgraded to Blood Energy III)
+700094,When you don't have enough Energy in battle, you can consume Vitality (&700094_xhtl&x the Energy cost) to cast skills. Skills cast using Vitality deal &700094_tssh&% more damage, and their cooldown &700094_jscd&%. (Select to replace Blood Energy II)
+700095,Max Energy +&700095_tsll&%
+700096,Max Energy +&700096_tsll&%
+700097,Max Energy +&700097_tsll&%
+700098,Max Vitality +&700098_tstl&%
+700099,Max Vitality +&700099_tstl&%
+700100,Max Vitality +&700100_tstl&%
+700101,In battle, you can summon a spiritual sword to automatically attack the enemies within &700101_gjfw&, dealing &700101_shwl& damage and draining &700101_zjgj& ATK for you from your enemies. This damage's element matches your highest Spiritual Root. Each of the spiritual sword's attacks consumes &700101_xhll& Energy. If you don't have enough Energy, the spiritual sword won't move. (Can be upgraded to Spiritual Sword II)
+700102,In battle, you can summon a spiritual sword to automatically attack the enemies within &700102_gjfw&, dealing &700102_shwl& damage and draining &700102_zjgj& ATK for you from your enemies. This damage's element matches your highest Spiritual Root. Each of the spiritual sword's attacks consumes &700102_xhll& Energy. If you don't have enough Energy, the spiritual sword won't move. For every 1 Energy you spend on casting skills, the spiritual sword's damage will increase by &700102_tswl& for &700102_cxsj&s. (Select to replace Spiritual Sword I; can be upgraded to Spiritual Sword III)
+700103,In battle, you can summon a spiritual sword to automatically attack the enemies within &700103_gjfw&, dealing &700103_shwl& damage and draining &700103_zjgj& ATK for you from your enemies. This damage's element matches your highest Spiritual Root. Each of the spiritual sword's attacks consumes &700103_xhll& Energy. If you don't have enough Energy, the spiritual sword won't move. For every 1 Energy you spend on casting skills, the spiritual sword's damage will increase by &700103_tswl& for &700103_cxsj&s. Every time the spiritual sword deals damage, it'll absorb &700103_xlbl&% Energy. (Select to replace Spiritual Sword II)
+700104,In battle, you can consume Vitality to form a blood claw. The blood claw takes &700104_njsj&s to be formed and will be released upon your subsequent attack. The blood claw explodes upon hitting an enemy, dealing &700104_bzsh& damage to the enemies within &700104_bzfw& and increasing your Max Vitality by &700104_tlsx& (capped at &700104_tlsx|x700104_tlcs|f2&). This damage's type matches your highest Martial Art. Forming the blood claw consumes &700104_xhtl& Vitality every second. You can't form it if your Vitality is below &700104_ljtl&%. (Can be upgraded to Blood Claw II)
+700105,In battle, you can consume Vitality to form a blood claw. The blood claw takes &700105_njsj&s to be formed and will be released upon your subsequent attack. The blood claw explodes upon hitting an enemy, dealing &700105_bzsh& damage to the enemies within &700105_bzfw& and increasing your Max Vitality by &700105_tlsx& (capped at &700105_tlsx|x700105_tlcs|f2&). This damage's type matches your highest Martial Art. The explosion will also leave a pool of blood on the ground that lasts &700105_xzsj&s, dealing damage over time to the enemies inside. Forming the blood claw consumes &700105_xhtl& Vitality every second. You can't form it if your Vitality is below &700105_ljtl&%. (Select to replace Blood Claw I; can be upgraded to Blood Claw III)
+700106,In battle, you can consume Vitality to form a blood claw. The blood claw takes &700106_njsj&s to be formed and will be released upon your subsequent attack. The blood claw explodes upon hitting an enemy, dealing &700106_bzsh& damage to the enemies within &700106_bzfw& and increasing your Max Vitality by &700106_tlsx& (capped at &700106_tlsx|x700106_tlcs|f2&). This damage's type matches your highest Martial Art. The explosion will also leave a pool of blood on the ground that lasts &700106_xzsj&s, dealing damage over time to the enemies inside while healing you (&700106_hftl& Vitality per second). Forming the blood claw consumes &700106_xhtl& Vitality every second. You can't form it if your Vitality is below &700106_ljtl&%. (Select to replace Blood Claw II)
+700107,Every enemy you kill in battle has a &700107_dlgl&% chance to drop an Energy Essence. Pick it up to recover &700107_hfll&% Energy. (Can be upgraded to Energy Essence II)
+700108,Every enemy you kill in battle has a &700108_dlgl&% chance to drop an Energy Essence. Pick it up to recover &700107_hfll&% Energy and reduce your Special Skill Cooldown by &700108_jscd&s. (Select to replace Energy Essence I)
+700109,Every enemy you kill in battle has a &700109_dlgl&% chance to drop a Vitality Essence. Pick it up to recover &700109_hftl&% Vitality. (Can be upgraded to Vitality Essence II)
+700110,Every enemy you kill in battle has a &700110_dlgl&% chance to drop a Vitality Essence. Pick it up to recover &700109_hftl&% Vitality and increase your Agility by &700110_tsys& for &700110_cxsj&s. (Select to replace Vitality Essence I)
+700111,Spiritual Skills' range +&700111_tscs&% (Can be upgraded to Enhanced Spiritual Skill II)
+700112,Spiritual Skills' range +&700112_tscs&% (Select to replace Enhanced Spiritual Skill I; can be upgraded to Enhanced Spiritual Skill III)
+700113,Spiritual Skills' range +&700113_tscs&% (Select to replace Enhanced Spiritual Skill II)
+700114,Martial Skills' cooldown &700114_jscd&% (Can be upgraded to Martial Skill Specialization II)
+700115,Martial Skills' cooldown &700115_jscd&% (Select to replace Martial Skill Specialization I; can be upgraded to Martial Skill Specialization III)
+700116,Martial Skills' cooldown &700116_jscd&% (Select to replace Martial Skill Specialization II)
+700117,When your Vitality drops below &700117_ljtl&% in battle, you have a chance to receive help from the Mystery Man Jo. (Cannot trigger more than once per battle)
+700118,When your Vitality drops below &700118_ljtl&% in battle, you have a chance to receive help from the Chicken King. (Cannot trigger more than once per battle)
+700119,Every time you cast a Special Skill, you have a &700119_lqgl&% chance to summon &700119_lqsl& lightning orbs that last &700119_lqsj&s to surround you.
+700121,Every time you right-click, you have a &700121_cfgl&% chance to generate a halo that lasts &700121_cxsj&s. The halo will pull all enemies within &700121_qyfw& toward you.
+700123,In battle, you can summon &700123_dwsl& Small Flower Faerie every &700123_zhjg&s. Each Small Flower Faerie exists for &700123_cxsj&s.
+700126,Your Following Bug can now fly! It'll assist you in battle. If you use a dash skill or a blink skill to suddenly move away, the Following Bug will be irritated, and its attack frequency and damage will be greatly increased for &700126_cxsj&s. Triggering this effect multiple times will stack its duration. (Select to replace Following Bug III)
+700127,tips_700127
+700130,Your success rate when performing Alchemy is greatly increased, and now you can concoct Elixirs with your Mirage Pot. Your Agility during battle &700130_jdys&%, and you'll receive &700130_jssh&% damage from behind. Every &700130_sjjg&s, you can give a pot to a summoned ally unit that doesn't have one. This unit will receive &700130_jssh&% damage from behind and deal more damage based on its size (small units: +&700130_xgsh&%; medium units: +&700130_zgsh&%; large units: +&700130_dgsh&%). For the next &700130_cxsj&s, you'll also receive the same damage boost.
+700131,Every &700131_csjg&s, a war drum that exists for &700131_cxsj&s will spawn next to the enemy with the highest Vitality. The war drum deals damage to nearby enemies 7 times per second, each time dealing &700131_shwl& damage. The enemies within range will deal &700131_jdsh&% damage.
+700132,Each artifact equipped increases Max Vitality by &700132_tssx&%
+700133,Artifact Spirit Favored Skills do not have to meet casting conditions
+700134,Forge +&700134_lqzz&, Max Focus +&700134_tsnl&.
+700135,Forge +&700135_lqzz&, Max Focus +&700135_tsnl&.
+700136,Forge +&700136_lqzz&, Max Focus +&700136_tsnl&.
+700137,Gain Invincibility when on the verge of death for &700137_wdsj&s, dealing damage to all enemies that is &700137_blsh&% of their max Vitality. Triggered 1 time max per battle.
+700138,Each time the cultivation skill is used &700138_txcs& times, a direct hit is triggered, dealing &700138_zzxs&% of full Martial Arts stats in direct damage to enemies hit.
+700139,Each time the cultivation skill is used &700139_lxcs& times, three chasing Qi blows are triggered, dealing &700139_zzxs&% of full Spirit stats in direct damage to enemies hit.
+700140,The minimum damage dealt by the attack is changed to &700140_zdsh&. The damage increases with Realm levels.
+700141,Every &700141_gjcs& attacks taken grants immunity to the next damage taken
+700142,Every &700142_gjcs& attacks taken grants immunity to the next damage taken
+700143,Agility increased by &700143_ysts&%
+700144,Agility increased by &700144_ysts&% and immune to damage every &700144_jgsj&s
+700145,Knowledge gained from each Spar increases by &700145_xdzj&%
+700146,When learning Manuals, there is a &700146_tjjj&% chance to use the Manual for the player's current Realm. Triggered max 1 time in &700146_lqsj& month(s).
+700147,Gives a &700147_cfgl&% chance that tomb raiding lifespan reduction decreases by &700147_jssm&%
+700148,Increased &700148_jlzj&% rewards from Mission completion
+700149,Increased &700149_jlzj&% rewards from Mission completion
+700150,Luck increases by &700150_xyzj&, and negative Destiny duration is reduced by &700150_fmqy&%.
+700151,Luck increases by &700151_xyzj&, and negative Destiny duration is reduced by &700151_fmqy&%.
+700152,Every &700152_ydsd& points of Agility increases damage by &700152_shts&%. Max increase of &700152_shts|x700152_zdcs|f2&%
+700153,Grants a load status every &700153_jgsj&s. With this status, the damage taken is absorbed. When the status ends after &700153_ddsj&s, the damage taken is released as AoE damage and hits all units within a &700153_shfw& range.
+700154,The power of the Ultimate Skill is increased by &700154_stsh&% but the Ultimate Skill has an additional cost of &700154_xhsm&% of max HP in addition to the Energy cost.
+700155,There is a &700155_cfgl&% chance of additional damage when the Special Skill hits an enemy. Dragon Roar deals &700155_wfxs&% of total Martial Skill in damage. Tiger Howl deals &700155_lgxs&% of total Spiritual Root in damage. Triggered max 1 time every &700155_lqsj&s.
+700156,When taking damage from a single attack that is over &700156_sdbl&% of max HP, the damage is fixed at &700156_sdbl&% of max HP and all enemies are frozen for &700156_bdsj&s. Triggered max 1 time every &700156_lqsj&s.
+700157,After every &700157_shcs& damage dealt, the attacks in the next &700157_bjsj&s are confirmed Crits. Cooldown &700157_lqsj&s.
+700158,After every &700158_shcs& damage dealt, the attacks in the next &700158_bjsj&s are confirmed Crits and the Crit rate is increased by &700158_bjbl&%. The final Crit rate is at least &700158_zdbl&. Cooldown &700158_lqsj&s.
+700159,Martial Skill/Spiritual Skill damage increased by &700159_zjsh&%
+700160,Each use or activation of Ultimate Skill provides one stack of Always Someone Better. Each stack of this effect increases your damage dealt by &700160_shts&% and also increases your damage taken by &700160_jsbl&%. The effect has a max of &700160_djcs& stacks.
+700161,Every ally summoner gives &700161_shts&% of their damage, up to a max of &700161_shts|x700161_djcs|f2&%. When taking fatal damage, one summoner will die in your place and restore &700161_tlhf&% of your max Vitality. The replacement death effect is triggered max 1 time every &700161_lqsj&s.
+700162,Each time the Ultimate Skill is triggered, all enemies take an increased &700162_shts&% of damage and are stunned for &700162_cxsj&s. Cooldown &700162_lqsj&s.
+700163,After taking damage that is &700163_ljsh&% of max HP, a light Qi wall shield &700163_ghfw& spaces big appears randomly within a range of &700163_sjwz& spaces around yourself. While inside the Qi wall, damage taken is reduced by &700163_shjm&% and damage dealt is increased by &700163_shts&% for &700163_lqsj&s.
+700164,Chance to trigger &700164_cfyc&s after entering the dungeon. The sandstorm lasts &700164_cxsj&s, and all enemies take damage that is &700164_mmsh&% of max HP per second (only &700164_dysh&% to boss and Cultivator), and their speed reduced by &700164_jsbl&%. (Can only be triggered 1 time per battle.)
+700165,
+700166,
+700167,Chance to trigger when there are multiple Cultivator teammates, sacrificing &700167_xhlt&% of current HP to put a shield over all allies. The shield value is equal to the sacrificed HP, and is not affected by control skills. Lasts &700167_chsj&s, cooldown &700167_lqsj&s.
+700168,Chance to trigger when there are multiple Cultivator teammates. When Vitality of a Cultivator teammate is lower than &700168_tlbl&%, &700168_xhtl& of current HP is used, and all enemies deal &700168_shjd&% less damage and take &700168_shzj&% more damage. Lasts &700168_chxj&s, cooldown &700168_lqsj&s.
+700169,Chance to trigger there are multiple Cultivator teammates. Reduces damage taken by &700169_shjd&% and damage increases by &700169_shzj&%. Lasts &700169_cxsj&s, cooldown &700169_lqsj&s.
+700170,
+700171,
+700172,
+700173,
+700174,Chance to trigger there are multiple Cultivator teammates. Reduces damage taken by &700174_shjd&% and &700174_shfd&% of damage taken by ally Cultivators is taken by you. Lasts &700174_cxsj&s, cooldown &700174_lqsj&s.
+700175,Chance to trigger there are multiple Cultivator teammates. While active, damage dealt is reduced by &700175_shjd&% and all ally Cultivators receive effects of any recovery Elixirs used. Lasts &700175_cxsj&s, cooldown &700175_lqsj&s.
+700176,Chance to trigger after entering battle. Summons a wild boar lair that lasts for &700176_zwsj&s. The boar lair summons boars continuously for &700176_yzsj& to join the battle, and has a small chance of summoning a female Dangkang. Cooldown &700176_jncd&s. (The female Dangkang picks up a random Cultivator and returns to the lair, throwing the enemy out and dealing high damage. This skill can interrupt Motion Skills.)
+700177,Chance to trigger after entering battle. Summons a charming fox for &700177_hysj&s. The fox sends charming kisses to the enemy, and kissed enemies turn into frogs with &700177_mhjs&% Agility. Effects last &700177_mhsj&s, cooldown &700177_jncd&s.
+700178,Chance to trigger after entering battle. When there is an enemy Cultivator in battle, &700178_ppsl& bubbles fall from the sky on a random location every &700178_ppcd&s. The enemy Cultivator that touches the bubbles get wrapped up by them for &700178_ppsj&s. Skill lasts &700178_pysj&s, cooldown &700178_jncd&s.
+700179,Chance to trigger after entering battle. Within &700179_xdsj&s of activation, you leave a bomb for every &700179_xdjl& moved, and there can be a max of &700179_zdsl& bombs existing. The bombs explode when enemies touch them, dealing &700179_bzwl& damage. Cooldown &700179_jncd&s.
+700180,Chance to trigger after entering battle. The rainstorm lasts &700180_bysj&s and reduces all enemy Agility by &700180_byjs&%. While the rainstorm is active, lightning falls on the ally (including the player character) with the highest Vitality every &700180_llcd&s, dealing &700180_yswl& damage to the ally and enemies within a range of &700180_llfw& take &700180_llwl& damage. Cooldown &700180_jncd&s.
+700181,Chance to trigger after entering battle. When a Cultivator ally is defeated in battle, there is a chance that a medical team will appear with a stretcher to save the ally. The saved ally rejoins the battle after &700181_fcsj&s and recovers &700181_ylhf&% Vitality.
+700182,Every time Spiritual Skill/Martial Skill is used, a Celestial Mark is gained. Celestial Marks can be stacked max &700182_xgcs& times. The next time the Special Skill is used, all Celestial Marks are used up, and each stack increases the Special Skill damage by &700182_jjsh&%.
+700183,Within &700183_cxsj&s of casting a Motion Skill, damage taken is &700183_shjd&%.
+700184,For every &700184_cfbl&% of max HP taken in damage, you let out a great shout that arouses fear in all units, dealing &700184_shjd&% damage. Max &700184_shjd|x700184_djcs|f2&%, with each stack lasting &700184_cxsj&s.
+700185,Adds one stack of Thundercall every &700185_jgsj&s for a max of &700185_djcs& stacks. When taking damage, a stack of Thundercall is used and lightning is sent to all enemies within a &700185_jnfw& range, dealing &700185_jnwl& damage.
+700186,Activates a link every &700186_lqsj&s to the enemy with the highest HP. &700186_ftsh&% of the damage taken by the player is transferred to the target. Lasts &700186_cxsj&s.
+700187,Cannot Breakthrough, but after Breakthrough, the Rewrite Destiny that can be selected is at the highest level.
+700188,With this Destiny fortification, the Following Dragon around you can be transformed in the Greenscale Spring.
+700189,When a small Following Dragon changes into a human, in addition to the some effects they originally had, they will also gain the ability to combine with the player during battle. Left clicking the new buttons in the status area will allow you to switch between the red, blue, and gold forms. Hovering the cursor over the switch screen will allow you to view the specific effects of the transformation. Once you enter and are fully charged in your combined form, the Ultimate Skill will switch to the corresponding combined form.
+700190,When a small Following Dragon changes into a human, in addition to the some effects they originally had, they will also gain the ability to combine with the player during battle. Left clicking the new buttons in the status area will allow you to switch between the red, blue, and gold forms. Hovering the cursor over the switch screen will allow you to view the specific effects of the transformation. Once you enter and are fully charged in your combined form, the Ultimate Skill will switch to the corresponding combined form.
+700191,When unleashing Special Skill, summons &700191_fjsl& Flying Swords and keeps shooting sword aura at the enemy, dealing &700191_fjwl& damage. As long as the Special Skill is dealing damage, the Flying Swords won't disappear. They last for at least &700191_cxsj& sec and at most &700191_cxsj|+700191_zdsj|f0& sec. This effect cannot occur more than once every &700191_fjcd&s.
+700192,tips_700192
+700193,When unleashing Ultimate Skill, if there is no Crab King present summoned by yourself, all your summoned units' current Vitality are reduced by &700193_blsh&%, summoning the Crab King, and increases its Max Vitality based on the total &700193_tlbl& times Vitality of all the summoned units reduced. As long as Crab King is present, it absorbs &700193_xqsh& Vitality from all the summoned units present every &700193_xqjg&s, and recovers Vitality equal to &700193_hfbl&% of the Vitality absorbed. Each of your summoned unit present increases Crab King's damage by &700193_shts&%, up to &700193_shsx|x700193_shts|/100|f0&%.
+700194,Every time you use a Martial Skill, you will have &700192_cfgl&% chance to unleash a huge wind blade forward, dealing &700192_zjwl& damage to hit enemies. Cooldown: &700192_lqsj&s.
+700195,Every time you use an Ultimate Skill, you will create &700194_ddsl& whirlwinds at your current position, dealing &700194_xfwl& damage to hit enemies. The whirlwinds will automatically chase down nearest enemies for &700194_cssj&s. Cooldown: &700194_lqsj&s.
+700196,When your summoned units are attacked by the enemy, you will have &700195_fzgl&% chance to deal &700195_fzwl& damage to the unit launched the attack. Can be triggered only once every &700195_fzjg&s.
+700197,When your Special Skills are used for &700196_jjcs& times in total, a lot of icicles will fall from the roof of the room, dealing &700196_bswl& damage to hit enemies and Freeze them. Cooldown: &700196_lqsj&s.
+700198,Every time your summoned units deal damages, their enemy will be Poisoned for &700197_cxsj&s. When the poison effect stacks to &700197_djcs&, it can be detonated to deal &700197_bzwl& AoE damage to the target, and increase its damage taken by &700197_shts&% for &700197_shsj&s. The detonation can be triggered on the same enemy only once every &700197_lqsj&s.
+700199,When casting Continuous Skills, you will shoot fireballs forward to a fan-shaped area in front of you, dealing &700199_hqwl& Fire AoE damage to hit enemies.
+700200,When you use an Ultimate Skill, you will summon &700201_llsl& thunderbolts to strike nearby enemies randomly. Every thunderbolt deals &700201_llwl& damage to enemies. Cooldown: &700201_lqsj&s.
+700201,After dealing damage for &700211_sxcs& times, your next attack will detonate your target, dealing &700211_bzwl& damage and leaving a field of flame at the target’s position with an area of effect of &700211_lyfw&. Cooldown: &700211_bzcd&s.
+700202,Tao Power cost in using Field Skills &700198_xhjs&%

@@ -1,0 +1,185 @@
+1,12111,Blade-Crescent Blade
+1,12112,Blade-Fiery Blade
+1,12113,Blade-Whirlwind Blade
+1,13111,Spear-Heart-Piercing Spear
+1,13112,Spear-Flying Dragon Spear
+1,13113,Spear-Splitting Dragon Spear
+1,14111,Sword-Breeze Sword
+1,14112,Sword-Lonestar Sword
+1,14113,Sword-Moonshadow Sword
+1,15111,Fist-Serene Fist
+1,15112,Fist-Seismic Fist
+1,15113,Fist-Colossal Fist
+1,16111,Palm-Greenwave Palm
+1,16112,Palm-Cloudshift Palm
+1,16113,Palm-Celerity Palm
+1,17111,Finger-Boomerang Finger
+1,17112,Finger-Duality Finger
+1,17113,Finger-Signless Finger
+1,41111,Fire-Firebolt
+1,41112,Fire-Fire Flare
+1,41113,Fire-Fierce Fire
+1,42111,Water-Spiritual Water
+1,42112,Water-Spiritual Torrent
+1,42113,Water-Ice Blast
+1,43111,Lightning-Voltshot
+1,43112,Lightning-Lightning Flash
+1,43113,Lightning-Purple Lightning
+1,44111,Wind-Wind Bolt
+1,44112,Wind-
+1,44113,Wind-Windslice
+1,45111,Earth-Earth Bolt
+1,45112,Earth-Falling Rock
+1,45113,Earth-Earthquake
+1,46111,Wood-Spiritual Leaf
+1,46112,Wood-Flying Petal
+1,46113,Wood-Blooming Bud
+2,22111,Blade-Crazeblood Cleave
+2,22112,Blade-Furyblood Cleave
+2,22113,Blade-Sever
+2,22114,Blade-Mega Slash
+2,22115,Blade-
+2,22116,Blade-Sweeping Blade
+2,23111,Spear-Crackling Jade Spear
+2,23112,Spear-True Dragon Rising
+2,23113,Spear-Linebreaking Spear
+2,23114,Spear-Roaring Dragon Rising
+2,23115,Spear-Dashing Dragon Rising
+2,23116,Spear-Sprinting Dragon Rising
+2,24111,Sword-Shadowless Sword
+2,24112,Sword-Gale Sword
+2,24113,Sword-Brokenstar Sword
+2,24114,Sword-Sunset Sword
+2,24115,Sword-Skycleaver Sword
+2,24116,Sword-Skyshatter Sword
+2,25111,Fist-Shadowy Fist
+2,25112,Fist-Lion's Roar Fist
+2,25113,Fist-Mindbender Fist
+2,25114,Fist-Hillbreaker Fist
+2,25115,Fist-Ironbody Fist
+2,25116,Fist-Skyblast Fist
+2,26111,Palm-Storm Palm
+2,26112,Palm-Palisade Palm
+2,26113,Palm-Landslide Palm
+2,26114,Palm-Rainbow Palm
+2,26115,Palm-Tidebreak Palm
+2,26116,Palm-Oceanic Palm
+2,27111,Finger-Seven Star Finger
+2,27112,Finger-Demonseal Finger
+2,27113,Finger-Void Spirit Blast
+2,27114,Finger-Spirit Seal Blast
+2,27115,Finger-Ethereal Blast
+2,27116,Finger-Shadowy Finger
+2,51111,Fire-Groundfire
+2,51112,Fire-Fire Sorrow
+2,51113,Fire-Sunfire
+2,51114,Fire-Sinful Flame
+2,51115,Fire-Fire Ring
+2,51116,Fire-Firerider
+2,52111,Water-Frost Blast
+2,52112,Water-Icy Aura
+2,52113,Water-Icicle
+2,52114,Water-Frostbrand
+2,52115,Water-Frost Spirit Blast
+2,52116,Water-Soulreaper
+2,53111,Lightning-Thundercall
+2,53112,Lightning-Dashing Lightning
+2,53113,Lightning-Lightning Cloud
+2,53114,Lightning-Dark Lightning
+2,53115,Lightning-Lightning Crash
+2,53116,Lightning-Spiritual Lightning
+2,54111,Wind-Windbound
+2,54112,Wind-Wind Roar
+2,54113,Wind-Sandstorm
+2,54114,Wind-Wild Wind
+2,54115,Wind-Reaving Wind
+2,54116,Wind-Sweeping Wind
+2,55111,Earth-Seismic Wave
+2,55112,Earth-Meteorfall
+2,55113,Earth-Rolling Rock
+2,55114,Earth-Rock Puppet
+2,55115,Earth-Quicksand
+2,55116,Earth-Rock Formation
+2,56111,Wood-Entangling Thorn
+2,56112,Wood-Primal Energy
+2,56113,Wood-Poisonous Marsh
+2,56114,Wood-Floral Spirit
+2,56115,Wood-Poisonous Plants
+2,56116,Wood-Thorny Spirit
+3,510011,Blade-Leap
+3,510021,Spear-Dash
+3,510031,Sword-Drift
+3,510041,Fist-Charge
+3,510051,Palm-Step
+3,510061,Finger-Stealth
+3,510111,Fire-Illusion
+3,510121,Water-Shadow
+3,510131,Lightning-Flash
+3,510141,Wind-Tornado
+3,510151,Earth-Burrow
+3,510161,Wood-Dance
+4,81001,Move
+4,82001,Sutra
+4,83001,Technique
+4,84001,Guide
+4,85001,Compendium
+4,86001,Blade-Secret Manual
+4,87001,Blade-Divine Power
+4,88001,Blade-Mastery
+4,86002,Spear-Secret Manual
+4,87002,Spear-Divine Power
+4,88002,Spear-Mastery
+4,86003,Sword-Secret Manual
+4,87003,Sword-Divine Power
+4,88003,Sword-Mastery
+4,86004,Fist-Secret Manual
+4,87004,Fist-Divine Power
+4,88004,Fist-Mastery
+4,86005,Palm-Secret Manual
+4,87005,Palm-Divine Power
+4,88005,Palm-Mastery
+4,86006,Finger-Secret Manual
+4,87006,Finger-Divine Power
+4,88006,Finger-Mastery
+4,86007,Fire-Secret Manual
+4,87007,Fire-Divine Power
+4,88007,Fire-Mastery
+4,86008,Water-Secret Manual
+4,87008,Water-Divine Power
+4,88008,Water-Mastery
+4,86009,Lightning-Secret Manual
+4,87009,Lightning-Divine Power
+4,88009,Lightning-Mastery
+4,86010,Wind-Secret Manual
+4,87010,Wind-Divine Power
+4,88010,Wind-Mastery
+4,86011,Earth-Secret Manual
+4,87011,Earth-Divine Power
+4,88011,Earth-Mastery
+4,86012,Wood-Secret Manual
+4,87012,Wood-Divine Power
+4,88012,Wood-Mastery
+5,32111,Blade-Demoonfury Blade
+5,32112,Blade-Overbearing Cleave
+5,33111,Spear-Hellspear
+5,33112,Spear-Dragon Spear Formation
+5,34111,Sword-Skyfall Sword
+5,34112,Sword-Divinity Sword
+5,35111,Fist-Overlord's Shield
+5,35112,Fist-Titan Fist
+5,36111,Palm-Eternal Rest Palm
+5,36112,Palm-Demonic Mark Palm
+5,37111,Finger-Spiritual Burst Finger
+5,37112,Finger-Divine Pulse Finger
+5,61111,Fire-Fire Core
+5,61112,Fire-Fire Phoenix
+5,62111,Water-Heavenly Icy Eye
+5,62112,Water-Spiritual Flood
+5,63111,Lightning-Lightning Retribution
+5,63112,Lightning-Thunderous Punishment
+5,64111,Wind-Arctic Storm
+5,64112,Wind-Temporal Wind Field
+5,65111,Earth-Earthfall
+5,65112,Earth-Spirit Giant
+5,66111,Wood-Poisonous Dragon Flower
+5,66112,Wood-Flower Faerie Queen
