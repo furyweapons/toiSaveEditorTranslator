@@ -1,1 +1,1 @@
-# toiSaveEditorTranslator
+In this repo: a crappy python file to translate the `創世 Re_START 2.0.0.1 驚喜版 Fix2` Tale of Immortal Save Editor data files. Just drop it in the Datas folder and run it. If you don't care about possibly being out of date you can also just download the data files included here. SkillPropers.csv has not been translated.
